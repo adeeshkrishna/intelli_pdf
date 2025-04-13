@@ -1,4 +1,3 @@
-# utils/helpers.py
 import os
 
 def allowed_file(filename: str, allowed_extensions={"pdf"}) -> bool:
