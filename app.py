@@ -1,4 +1,3 @@
-# backend/app.py (refactored)
 from flask import Flask, request, jsonify, render_template
 from werkzeug.utils import secure_filename
 from services.pdf_service import process_pdf
