@@ -1,4 +1,3 @@
-// static/script.js (refactored with cleaner modularity)
 document.addEventListener('DOMContentLoaded', () => {
     const processButton = document.getElementById('processButton');
     const loadingIndicator = document.getElementById('loadingIndicator');
