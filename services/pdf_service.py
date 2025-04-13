@@ -1,4 +1,3 @@
-# services/pdf_service.py
 import os
 import shutil
 from langchain_community.document_loaders import PyMuPDFLoader
