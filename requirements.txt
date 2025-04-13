@@ -10,4 +10,4 @@ chromadb  # Vector storage
 openai  # For embeddings
 tiktoken   # For embeddings 
 
-# install markdown depenendies with: `pip install "unstructured[md]"` after install the requirements file. Leave this line commented out. 
+# install markdown depenendies with: `pip install "unstructured[pdf]"` after install the requirements file. Leave this line commented out. 
